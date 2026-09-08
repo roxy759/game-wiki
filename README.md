@@ -13,24 +13,27 @@ Welcome to the comprehensive Prison RP - Project Hexa Wiki! This repository cont
 | **Buildings & Zones** | Explore the hexagon prison layout | [View Zones](./docs/world/buildings.md) |
 | **Schedule & Jobs** | Understand daily routines and job duties | [View Schedule](./docs/gameplay/schedule-jobs.md) |
 
-### All Roles 
+### All Roles at a Glance
 
 - [Prisoner](./docs/roles/prisoner.md) - Default starting role
-- [Janitor](./docs/roles/janitor.md) - Maintenance and cleaning
-- [Cook](./docs/roles/cook.md) - Food preparation
-- [Medic](./docs/roles/medic.md) - Medical care
-- [Guard](./docs/roles/guard.md) - Prison security (Level 30)
-- [Teacher](./docs/roles/teacher.md) - Education and training
-- [Sergeant](./docs/roles/sergeant.md) - Senior guard position
+- [Janitor](./docs/roles/janitor.md) - Maintenance and cleaning (Level 5)
+- [Cook](./docs/roles/cook.md) - Food preparation (Level 10)
+- [Guard](./docs/roles/guard.md) - Prison security (Level 20)
+- [Teacher](./docs/roles/teacher.md) - Education and training (Level 20)
+- [Medic](./docs/roles/medic.md) - Medical care (Level 30)
+- [Sergeant](./docs/roles/sergeant.md) - Senior guard position (Level 40)
 - [Captain](./docs/roles/captain.md) - High-ranking authority (Level 70)
-- [Bodyguard](./docs/roles/bodyguard.md) - VIP protection
-- [Director](./docs/roles/director.md) - Supreme authority (Level 100)
+- [Bodyguard](./docs/roles/bodyguard.md) - VIP protection (Level 80)
+- [Warden](./docs/roles/warden.md) - Supreme authority (Level 100)
+
+### NPCs
+
+- [NPCs](./docs/npcs/README.md) - Information about non-player characters in the prison
 
 ### Getting Started
 
 - [Tips & Tricks](./docs/guides/tips-tricks.md) - Strategies and gameplay advice
 - [Community Guidelines](./docs/community/guidelines.md) - Wiki rules and how to contribute
-
 
 ## How to Use This Wiki
 
