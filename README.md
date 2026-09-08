@@ -25,7 +25,6 @@ Welcome to the comprehensive Prison RP - Project Hexa Wiki! This repository cont
 - [Captain](./docs/roles/captain.md) - High-ranking authority (Level 70)
 - [Bodyguard](./docs/roles/bodyguard.md) - VIP protection (Level 80)
 - [Warden](./docs/roles/warden.md) - Supreme authority (Level 100)
-- [Ghost](./docs/roles/ghost.md) - Moderator testing role
 
 ### NPCs
 

@@ -16,7 +16,6 @@ Complete directory of all playable roles in Prison RP - Project Hexa.
 | Captain | 70 | High-ranking authority |
 | Bodyguard | 80 | Protection duty |
 | Warden | 100 | Supreme authority |
-| Ghost | Moderator Only | Testing role |
 
 ## Detailed Role Pages
 
@@ -30,7 +29,6 @@ Complete directory of all playable roles in Prison RP - Project Hexa.
 - [Captain](./captain.md)
 - [Bodyguard](./bodyguard.md)
 - [Warden](./warden.md)
-- [Ghost](./ghost.md)
 
 ## Role Template
 
