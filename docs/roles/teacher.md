@@ -8,46 +8,15 @@
 
 ## Description
 
-Teachers are responsible for educating prisoners through classes and instruction. They manage the educational zone and provide learning opportunities to improve prisoner skills and knowledge.
+Teachers organize activities or structured sessions for prisoners. Their role is more peaceful and focuses on discipline, learning, or roleplay events inside the prison.
 
-## Equipment
+## Spawn Equipment
 
-- Teaching materials
-- Books
-- Instructional tools
-- Classroom supplies
+- TBD
 
-## Abilities & Privileges
+## Advantages
 
-- Access to educational zone
-- Classroom management authority
-- Curriculum control
-- Student monitoring
-
-## Daily Duties
-
-- Conduct classes and lessons
-- Manage educational materials
-- Track student progress
-- Prepare lesson plans
-- Facilitate learning activities
-
-## Work Location
-
-- **Primary**: Educational Zone (Classrooms, Library)
-- **Secondary**: Prisoner areas during educational activities
-
-## Class Schedule
-
-- Morning sessions
-- Afternoon sessions
-- Evening study time
-
-## Tips
-
-- Prepare engaging lessons
-- Maintain classroom order
-- Track student attendance
+- TBD
 
 ## Related Information
 

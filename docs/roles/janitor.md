@@ -8,41 +8,18 @@
 
 ## Description
 
-Janitors are responsible for maintaining the cleanliness and order of the prison. They perform cleaning duties throughout all accessible zones and ensure facilities remain in good condition.
+Janitors are responsible for keeping the prison clean. They maintain hygiene in common areas and help keep order in the environment. While not a security role, they are part of the prison staff and help with daily maintenance. They have a broom to wash the room and a talkie-walkie to talk with others.
 
-## Equipment
+## Spawn Equipment
 
+- Talkie-walkie
 - Broom
-- Cleaning supplies
-- Mop
-- Dustpan
+- Flashlight
 
-## Abilities & Privileges
+## Advantages
 
-- Access to cleaning supply areas
-- Permission to enter most zones for maintenance
-- Cleaning tool usage
-- Basic access to prisoner areas
-
-## Daily Duties
-
-- Sweeping common areas
-- Mopping floors
-- Emptying trash bins
-- Maintaining courtyard cleanliness
-- General facility upkeep
-
-## Job Schedule
-
-- Morning shift: Courtyard and common areas
-- Afternoon shift: Cell blocks and zones
-- Evening shift: Final cleanup
-
-## Tips
-
-- Complete cleaning assignments on time
-- Focus on high-traffic areas
-- Coordinate with other staff
+- Can wash with his broom
+- Has access to the bookstore with the keys
 
 ## Related Information
 

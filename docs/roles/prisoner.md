@@ -4,35 +4,19 @@
 
 - **Role Name**: Prisoner
 - **Unlock Level**: 1 (Default)
-- **Status**: Playable
+- **Status**: Starting Role
 
 ## Description
 
-Prisoners are the default role in Prison RP - Project Hexa. They navigate the prison, complete tasks, and work towards advancing to higher-ranking roles through leveling and earning XP.
+The basic role. Prisoners live inside the prison and must follow the rules set by the staff. They can interact with other inmates, work jobs, or just wait the end of the day. This role is the starting point for all players. They unlock the fists after the tutorial.
 
-## Equipment
+## Spawn Equipment
 
-- Basic prison clothing
-- [List additional equipment]
+- Nothing (you unlock the fist after complete the tutorial)
 
-## Abilities & Privileges
+## Advantages
 
-- Access to prisoner cells
-- Access to common areas (cafeteria, courtyard)
-- Participate in assigned jobs
-- Progress through leveling system
-
-## Daily Duties
-
-- Attend scheduled activities
-- Complete work assignments
-- Follow prison rules and schedules
-
-## Tips
-
-- Focus on completing jobs to earn XP efficiently
-- Explore different roles as you level up
-- Follow prison rules to avoid penalties
+- None
 
 ## Related Information
 

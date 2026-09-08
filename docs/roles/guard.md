@@ -1,14 +1,14 @@
-# Bodyguard
+# Guard
 
 ## Basic Info
 
-- **Role Name**: Bodyguard
-- **Unlock Level**: TBD
+- **Role Name**: Guard
+- **Unlock Level**: 30
 - **Status**: Authority Role
 
 ## Description
 
-Bodyguards protect important staff members, especially high-ranking roles like the Director. They focus on personal protection and intervene in dangerous situations quickly.
+Guards are responsible for security inside the prison. They patrol areas, prevent escapes, and make sure prisoners follow the rules. They can arrest or punish inmates who break regulations.
 
 ## Spawn Equipment
 
@@ -18,11 +18,11 @@ Bodyguards protect important staff members, especially high-ranking roles like t
 - Taser
 - Handcuffs
 - Flashlight
-- Pistol
 
 ## Advantages
 
-- Has more features on the tablet
+- Can open more doors like the cells, infirmary, cafeteria
+- Can place a player in (limited) isolation
 
 ## Related Information
 
