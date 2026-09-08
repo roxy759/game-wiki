@@ -7,28 +7,30 @@ Complete directory of all playable roles in Prison RP - Project Hexa.
 | Role | Unlock Level | Description |
 |------|--------------|-------------|
 | Prisoner | 1 | Default role |
-| Janitor | Level TBD | Cleaning and maintenance |
-| Cook | Level TBD | Food preparation |
-| Medic | Level TBD | Medical care |
-| Guard | 30 | Prison security |
-| Teacher | Level TBD | Education |
-| Sergeant | Level TBD | Senior guard position |
+| Janitor | 5 | Cleaning and maintenance |
+| Cook | 10 | Food preparation |
+| Guard | 20 | Prison security |
+| Teacher | 20 | Education |
+| Medic | 30 | Medical care |
+| Sergeant | 40 | Senior guard position |
 | Captain | 70 | High-ranking authority |
-| Bodyguard | Level TBD | Protection duty |
-| Director | 100 | Ultimate authority |
+| Bodyguard | 80 | Protection duty |
+| Warden | 100 | Supreme authority |
+| Ghost | Moderator Only | Testing role |
 
 ## Detailed Role Pages
 
 - [Prisoner](./prisoner.md)
 - [Janitor](./janitor.md)
 - [Cook](./cook.md)
-- [Medic](./medic.md)
 - [Guard](./guard.md)
 - [Teacher](./teacher.md)
+- [Medic](./medic.md)
 - [Sergeant](./sergeant.md)
 - [Captain](./captain.md)
 - [Bodyguard](./bodyguard.md)
-- [Director](./director.md)
+- [Warden](./warden.md)
+- [Ghost](./ghost.md)
 
 ## Role Template
 
