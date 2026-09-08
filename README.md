@@ -4,7 +4,7 @@ Welcome to the comprehensive Prison RP - Project Hexa Wiki! This repository cont
 
 ## Quick Navigation
 
-### 🎮 Core Systems
+### Core Systems
 
 | System | Description | Link |
 |--------|-------------|------|
@@ -13,7 +13,7 @@ Welcome to the comprehensive Prison RP - Project Hexa Wiki! This repository cont
 | **Buildings & Zones** | Explore the hexagon prison layout | [View Zones](./docs/world/buildings.md) |
 | **Schedule & Jobs** | Understand daily routines and job duties | [View Schedule](./docs/gameplay/schedule-jobs.md) |
 
-### 📚 All Roles at a Glance
+### All Roles at a Glance
 
 - [Prisoner](./docs/roles/prisoner.md) - Default starting role
 - [Janitor](./docs/roles/janitor.md) - Maintenance and cleaning
@@ -26,7 +26,7 @@ Welcome to the comprehensive Prison RP - Project Hexa Wiki! This repository cont
 - [Bodyguard](./docs/roles/bodyguard.md) - VIP protection
 - [Director](./docs/roles/director.md) - Supreme authority (Level 100)
 
-### 💡 Getting Started
+### Getting Started
 
 - [Tips & Tricks](./docs/guides/tips-tricks.md) - Strategies and gameplay advice
 - [Community Guidelines](./docs/community/guidelines.md) - Wiki rules and how to contribute
