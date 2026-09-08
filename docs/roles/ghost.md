@@ -3,20 +3,22 @@
 ## Basic Info
 
 - **Role Name**: Ghost
-- **Unlock Level**: Moderator Only
-- **Status**: Testing Role
+- **Unlock Level**: Staff Team Only
+- **Status**: Exclusive Role
 
 ## Description
 
-Ghost is a moderator testing role used for administrative purposes and testing game mechanics. This role is not available to regular players.
+Ghost is a staff team exclusive role used for administrative purposes and testing game mechanics. This role is not available to regular players.
 
 ## Spawn Equipment
 
-- TBD
+- Tablet
+- Flashlight
+- Cuffs
 
 ## Advantages
 
-- TBD
+- None
 
 ## Related Information
 
