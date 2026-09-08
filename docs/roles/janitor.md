@@ -3,7 +3,7 @@
 ## Basic Info
 
 - **Role Name**: Janitor
-- **Unlock Level**: TBD
+- **Unlock Level**: 5
 - **Status**: Support Role
 
 ## Description

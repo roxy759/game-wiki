@@ -3,12 +3,12 @@
 ## Basic Info
 
 - **Role Name**: Bodyguard
-- **Unlock Level**: TBD
+- **Unlock Level**: 80
 - **Status**: Authority Role
 
 ## Description
 
-Bodyguards protect important staff members, especially high-ranking roles like the Director. They focus on personal protection and intervene in dangerous situations quickly.
+Bodyguards protect important staff members, especially high-ranking roles like the Warden. They focus on personal protection and intervene in dangerous situations quickly.
 
 ## Spawn Equipment
 

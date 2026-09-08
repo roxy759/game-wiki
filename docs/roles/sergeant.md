@@ -3,7 +3,7 @@
 ## Basic Info
 
 - **Role Name**: Sergeant
-- **Unlock Level**: TBD
+- **Unlock Level**: 40
 - **Status**: Authority Role
 
 ## Description

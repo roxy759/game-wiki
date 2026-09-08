@@ -3,7 +3,7 @@
 ## Basic Info
 
 - **Role Name**: Guard
-- **Unlock Level**: 30
+- **Unlock Level**: 20
 - **Status**: Authority Role
 
 ## Description

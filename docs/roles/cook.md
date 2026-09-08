@@ -3,7 +3,7 @@
 ## Basic Info
 
 - **Role Name**: Cook
-- **Unlock Level**: TBD
+- **Unlock Level**: 10
 - **Status**: Support Role
 
 ## Description

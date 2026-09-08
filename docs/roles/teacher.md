@@ -3,7 +3,7 @@
 ## Basic Info
 
 - **Role Name**: Teacher
-- **Unlock Level**: TBD
+- **Unlock Level**: 20
 - **Status**: Support Role
 
 ## Description

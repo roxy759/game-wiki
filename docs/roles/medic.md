@@ -3,7 +3,7 @@
 ## Basic Info
 
 - **Role Name**: Medic
-- **Unlock Level**: TBD
+- **Unlock Level**: 30
 - **Status**: Support Role
 
 ## Description

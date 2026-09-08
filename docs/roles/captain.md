@@ -27,7 +27,8 @@ Captains lead the guard team. They organize patrols, give orders, and manage sec
 ## Career Progression
 
 Advance to:
-- [Director](./director.md)
+- [Bodyguard](./bodyguard.md)
+- [Warden](./warden.md)
 
 ## Related Information
 
