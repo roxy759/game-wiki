@@ -13,7 +13,7 @@ Welcome to the comprehensive Prison RP - Project Hexa Wiki! This repository cont
 | **Buildings & Zones** | Explore the hexagon prison layout | [View Zones](./docs/world/buildings.md) |
 | **Schedule & Jobs** | Understand daily routines and job duties | [View Schedule](./docs/gameplay/schedule-jobs.md) |
 
-### All Roles at a Glance
+### All Roles 
 
 - [Prisoner](./docs/roles/prisoner.md) - Default starting role
 - [Janitor](./docs/roles/janitor.md) - Maintenance and cleaning
@@ -31,14 +31,6 @@ Welcome to the comprehensive Prison RP - Project Hexa Wiki! This repository cont
 - [Tips & Tricks](./docs/guides/tips-tricks.md) - Strategies and gameplay advice
 - [Community Guidelines](./docs/community/guidelines.md) - Wiki rules and how to contribute
 
-## About Prison RP - Project Hexa
-
-Prison RP - Project Hexa is a Roblox roleplaying game featuring:
-- 10 unique roles with different responsibilities
-- Progressive leveling system (up to Level 100)
-- Hexagon-shaped prison with multiple zones
-- Daily schedule and job system
-- Team-based gameplay with guards and prisoners
 
 ## How to Use This Wiki
 
