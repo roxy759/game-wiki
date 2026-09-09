@@ -13,7 +13,7 @@ Welcome to the comprehensive Prison RP - Project Hexa Wiki! This repository cont
 | **Buildings & Zones** | Explore the hexagon prison layout | [View Zones](./docs/world/buildings.md) |
 | **Schedule & Jobs** | Understand daily routines and job duties | [View Schedule](./docs/gameplay/schedule-jobs.md) |
 
-### [All Roles at a Glance](./docs/roles/README.md)
+### All [Roles](./docs/roles/README.md) at a Glance
 
 - [Prisoner](./docs/roles/prisoner.md) - Default starting role
 - [Janitor](./docs/roles/janitor.md) - Maintenance and cleaning (Level 5)
