@@ -3,22 +3,20 @@
 ## Basic Info
 
 - **Role Name**: Medic
-- **Unlock Level**: 30
-- **Status**: Support Role
+- **Unlock Level**: Level 20
+- **Status**: Medical Role
 
 ## Description
 
-Medics take care of injured players. They work in the infirmary and provide healing when fights or accidents happen. Their role is important to keep the prison running smoothly and reduce downtime for other players.
+Medic is a medical role responsible for providing basic medical care and treatment to prisoners within the prison healthcare system.
 
 ## Spawn Equipment
 
-- Talkie-walkie
-- Bandages
+- TBD
 
 ## Advantages
 
-- Can heal himself or other players with the bandage
-- Has access to the infirmary
+- TBD
 
 ## Related Information
 

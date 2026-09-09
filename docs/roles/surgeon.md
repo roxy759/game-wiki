@@ -3,7 +3,7 @@
 ## Basic Info
 
 - **Role Name**: Surgeon
-- **Unlock Level**: Level 50
+- **Unlock Level**: Level 30
 - **Status**: Advanced Medical Role
 
 ## Description

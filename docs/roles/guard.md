@@ -3,26 +3,20 @@
 ## Basic Info
 
 - **Role Name**: Guard
-- **Unlock Level**: 20
-- **Status**: Authority Role
+- **Unlock Level**: Level 60
+- **Status**: Security Role
 
 ## Description
 
-Guards are responsible for security inside the prison. They patrol areas, prevent escapes, and make sure prisoners follow the rules. They can arrest or punish inmates who break regulations.
+Guard is a security role responsible for maintaining order and security within the prison.
 
 ## Spawn Equipment
 
-- Tablet
-- Walkie-talkie
-- Baton
-- Taser
-- Handcuffs
-- Flashlight
+- TBD
 
 ## Advantages
 
-- Can open more doors like the cells, infirmary, cafeteria
-- Can place a player in (limited) isolation
+- TBD
 
 ## Related Information
 
