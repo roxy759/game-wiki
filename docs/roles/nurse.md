@@ -3,7 +3,7 @@
 ## Basic Info
 
 - **Role Name**: Nurse
-- **Unlock Level**: Level 35
+- **Unlock Level**: Level 10
 - **Status**: Medical Support Role
 
 ## Description
