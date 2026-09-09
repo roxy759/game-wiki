@@ -8,23 +8,22 @@ Welcome to the comprehensive Prison RP - Project Hexa Wiki! This repository cont
 
 | System | Description | Link |
 |--------|-------------|------|
-| **Roles** | Discover all 13 playable roles and their unique abilities | [View Roles](./docs/roles/README.md) |
+| **Roles** | Discover all 12 playable roles and their unique abilities | [View Roles](./docs/roles/README.md) |
 | **Leveling** | Learn the XP system and role unlock requirements | [View Progression](./docs/progression/level-xp.md) |
 | **Buildings & Zones** | Explore the hexagon prison layout | [View Zones](./docs/world/buildings.md) |
 | **Schedule & Jobs** | Understand daily routines and job duties | [View Schedule](./docs/gameplay/schedule-jobs.md) |
 
 ### All [Roles](./docs/roles/README.md) at a Glance
 
-- [Prisoner](./docs/roles/prisoner.md) - Default starting role
+- [Prisoner](./docs/roles/prisoner.md) - Default starting role (Level 1)
 - [Janitor](./docs/roles/janitor.md) - Maintenance and cleaning (Level 5)
 - [Cook](./docs/roles/cook.md) - Food preparation (Level 10)
 - [Nurse](./docs/roles/nurse.md) - Patient care and assistance (Level 10)
-- [Medic](./docs/roles/medic.md) - Medical care (Level 20)
-- [Psychologist](./docs/roles/psychologist.md) - Mental health support (Level 20)
-- [Surgeon](./docs/roles/surgeon.md) - Advanced medical procedures (Level 30)
-- [Teacher](./docs/roles/teacher.md) - Education and training (Level 40)
-- [Sergeant](./docs/roles/sergeant.md) - Senior guard position (Level 50)
-- [Guard](./docs/roles/guard.md) - Prison security (Level 60)
+- [Medic](./docs/roles/medic.md) - Medical care (Level 30)
+- [Surgeon](./docs/roles/surgeon.md) - Advanced medical procedures (Level 50)
+- [Teacher](./docs/roles/teacher.md) - Education and training (Level 20)
+- [Guard](./docs/roles/guard.md) - Prison security (Level 20)
+- [Sergeant](./docs/roles/sergeant.md) - Senior guard position (Level 40)
 - [Captain](./docs/roles/captain.md) - High-ranking authority (Level 70)
 - [Bodyguard](./docs/roles/bodyguard.md) - VIP protection (Level 80)
 - [Warden](./docs/roles/warden.md) - Supreme authority (Level 100)
