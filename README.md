@@ -15,16 +15,16 @@ Welcome to the comprehensive Prison RP - Project Hexa Wiki! This repository cont
 
 ### All Roles at a Glance
 
-- [Prisoner](./docs/roles/prisoner.md) - Default starting role
-- [Janitor](./docs/roles/janitor.md) - Maintenance and cleaning (Level 5)
-- [Cook](./docs/roles/cook.md) - Food preparation (Level 10)
-- [Guard](./docs/roles/guard.md) - Prison security (Level 20)
-- [Teacher](./docs/roles/teacher.md) - Education and training (Level 20)
-- [Medic](./docs/roles/medic.md) - Medical care (Level 30)
-- [Sergeant](./docs/roles/sergeant.md) - Senior guard position (Level 40)
-- [Captain](./docs/roles/captain.md) - High-ranking authority (Level 70)
-- [Bodyguard](./docs/roles/bodyguard.md) - VIP protection (Level 80)
-- [Warden](./docs/roles/warden.md) - Supreme authority (Level 100)
+- [Prisoner](./docs/roles/README.md#prisoner) - Default starting role
+- [Janitor](./docs/roles/README.md#janitor) - Maintenance and cleaning (Level 5)
+- [Cook](./docs/roles/README.md#cook) - Food preparation (Level 10)
+- [Guard](./docs/roles/README.md#guard) - Prison security (Level 20)
+- [Teacher](./docs/roles/README.md#teacher) - Education and training (Level 20)
+- [Medic](./docs/roles/README.md#medic) - Medical care (Level 30)
+- [Sergeant](./docs/roles/README.md#sergeant) - Senior guard position (Level 40)
+- [Captain](./docs/roles/README.md#captain) - High-ranking authority (Level 70)
+- [Bodyguard](./docs/roles/README.md#bodyguard) - VIP protection (Level 80)
+- [Warden](./docs/roles/README.md#warden) - Supreme authority (Level 100)
 
 ### NPCs
 

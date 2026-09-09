@@ -19,15 +19,34 @@ Complete directory of all playable roles in Prison RP - Project Hexa.
 
 ## Detailed Role Pages
 
+### Prisoner
 - [Prisoner](./prisoner.md)
+
+### Janitor
 - [Janitor](./janitor.md)
+
+### Cook
 - [Cook](./cook.md)
+
+### Guard
 - [Guard](./guard.md)
+
+### Teacher
 - [Teacher](./teacher.md)
+
+### Medic
 - [Medic](./medic.md)
+
+### Sergeant
 - [Sergeant](./sergeant.md)
+
+### Captain
 - [Captain](./captain.md)
+
+### Bodyguard
 - [Bodyguard](./bodyguard.md)
+
+### Warden
 - [Warden](./warden.md)
 
 ## Role Template
