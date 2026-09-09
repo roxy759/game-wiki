@@ -11,10 +11,10 @@ Complete directory of all playable roles in Prison RP - Project Hexa.
 | [Cook](./cook.md) | 10 | Food preparation |
 | [Guard](./guard.md) | 20 | Prison security |
 | [Teacher](./teacher.md) | 20 | Education |
+| [Psychologist](./psychologist.md) | 20 | Mental health support |
 | [Medic](./medic.md) | 30 | Medical care |
 | [Surgeon](./surgeon.md) | 35 | Advanced medical procedures |
 | [Nurse](./nurse.md) | 35 | Patient care and assistance |
-| [Psychologist](./psychologist.md) | 35 | Mental health support |
 | [Sergeant](./sergeant.md) | 40 | Senior guard position |
 | [Captain](./captain.md) | 70 | High-ranking authority |
 | [Bodyguard](./bodyguard.md) | 80 | Protection duty |

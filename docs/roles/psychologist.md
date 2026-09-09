@@ -3,7 +3,7 @@
 ## Basic Info
 
 - **Role Name**: Psychologist
-- **Unlock Level**: Level 35
+- **Unlock Level**: Level 20
 - **Status**: Mental Health Role
 
 ## Description
