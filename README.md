@@ -30,6 +30,10 @@ Welcome to the comprehensive Prison RP - Project Hexa Wiki! This repository cont
 
 - [NPCs](./docs/npcs/README.md) - Information about non-player characters in the prison
 
+### Rules
+
+- [Rules](./docs/rules/README.md) - Server and gameplay rules
+
 ### Getting Started
 
 - [Tips & Tricks](./docs/guides/tips-tricks.md) - Strategies and gameplay advice
