@@ -7,6 +7,7 @@ Non-Player Characters (NPCs) in Prison RP - Project Hexa.
 | NPC Name  | Location                      | Description     |
 |-----------|-------------------------------|-----------------|
 | Duckarro  | Wardens building (Entrance)   | Face editor     |
+| Capt. Mustapha | [Location TBD] | [Description TBD] |
 
 ## Duckarro
 
@@ -18,6 +19,12 @@ Duckarro is a duck NPC located at the entrance of the Warden's building. He serv
 
 - **First face change**: Free
 - **Each subsequent change**: 75 Robux
+
+## Capt. Mustapha
+
+![Capt. Mustapha](../../images/Capt.Mustapha.PNG)
+
+Capt. Mustapha is an NPC in Prison RP - Project Hexa.
 
 ---
 
