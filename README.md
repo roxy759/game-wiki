@@ -8,7 +8,7 @@ Welcome to the comprehensive Prison RP - Project Hexa Wiki! This repository cont
 
 | System | Description | Link |
 |--------|-------------|------|
-| **Roles** | Discover all 10 playable roles and their unique abilities | [View Roles](./docs/roles/README.md) |
+| **Roles** | Discover all 13 playable roles and their unique abilities | [View Roles](./docs/roles/README.md) |
 | **Leveling** | Learn the XP system and role unlock requirements | [View Progression](./docs/progression/level-xp.md) |
 | **Buildings & Zones** | Explore the hexagon prison layout | [View Zones](./docs/world/buildings.md) |
 | **Schedule & Jobs** | Understand daily routines and job duties | [View Schedule](./docs/gameplay/schedule-jobs.md) |
@@ -21,6 +21,9 @@ Welcome to the comprehensive Prison RP - Project Hexa Wiki! This repository cont
 - [Guard](./docs/roles/guard.md) - Prison security (Level 20)
 - [Teacher](./docs/roles/teacher.md) - Education and training (Level 20)
 - [Medic](./docs/roles/medic.md) - Medical care (Level 30)
+- [Nurse](./docs/roles/nurse.md) - Medical support
+- [Surgeon](./docs/roles/surgeon.md) - Advanced medical care
+- [Psychologist](./docs/roles/psychologist.md) - Counseling and wellbeing
 - [Sergeant](./docs/roles/sergeant.md) - Senior guard position (Level 40)
 - [Captain](./docs/roles/captain.md) - High-ranking authority (Level 70)
 - [Bodyguard](./docs/roles/bodyguard.md) - VIP protection (Level 80)

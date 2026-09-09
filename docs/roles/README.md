@@ -12,6 +12,9 @@ Complete directory of all playable roles in Prison RP - Project Hexa.
 | [Guard](./guard.md) | 20 | Prison security |
 | [Teacher](./teacher.md) | 20 | Education |
 | [Medic](./medic.md) | 30 | Medical care |
+| [Nurse](./nurse.md) | TBD | Medical support |
+| [Surgeon](./surgeon.md) | TBD | Advanced medical care |
+| [Psychologist](./psychologist.md) | TBD | Counseling and wellbeing |
 | [Sergeant](./sergeant.md) | 40 | Senior guard position |
 | [Captain](./captain.md) | 70 | High-ranking authority |
 | [Bodyguard](./bodyguard.md) | 80 | Protection duty |
