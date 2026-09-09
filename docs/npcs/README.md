@@ -10,7 +10,7 @@ Non-Player Characters (NPCs) in Prison RP - Project Hexa.
 
 ## Duckarro
 
-![Duckarro](../../images/duckarro.png)
+![Duckarro](../../images/duckarro.PNG)
 
 Duckarro is a duck NPC located at the entrance of the Warden's building. He serves as the Face editor, allowing players to customize their character's appearance.
 
