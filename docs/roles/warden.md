@@ -19,7 +19,7 @@ The highest authority in the prison. The Warden manages all operations, staff, a
 - Flashlight
 - Tablet
 - Walkie-talkie
-- Pistol (possibly)
+- Pistol
 
 ## Advantages
 
