@@ -21,7 +21,7 @@ Sergeants are higher-ranked guards. They assist in managing lower-ranked guards 
 
 ## Advantages
 
-- Has unlimited player isolation
+- Is able to put inmates into solitary 
 
 ## Career Progression
 
