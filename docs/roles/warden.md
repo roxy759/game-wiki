@@ -15,7 +15,6 @@ The highest authority in the prison. The Warden manages all operations, staff, a
 - Megaphone
 - Handcuffs
 - Taser
-- Bandages
 - Flashlight
 - Tablet
 - Walkie-talkie
