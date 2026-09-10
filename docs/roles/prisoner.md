@@ -12,7 +12,7 @@ The basic role. Prisoners live inside the prison and must follow the rules set b
 
 ## Spawn Equipment
 
-- Nothing (you unlock the fist after complete the tutorial)
+- Nothing (you unlock the fist after complete the tutorial or reaching level 30)
 
 ## Advantages
 
