@@ -12,7 +12,8 @@ Guard is a security role responsible for maintaining order and security within t
 
 ## Spawn Equipment
 
-- TBD
+- Handcuffs
+- Taser
 
 ## Advantages
 
