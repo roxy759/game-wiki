@@ -9,7 +9,7 @@ Welcome to the comprehensive Prison RP - Project Hexa Wiki! This repository cont
 | System | Description | Link |
 |--------|-------------|------|
 | **Roles** | Discover all 12 playable roles and their unique abilities | [View Roles](./docs/roles/README.md) |
-| **Leveling** | Learn the XP system and role unlock requirements | [View Progression](./docs/progression/level-xp.md) |
+| **Leveling** | Learn the XP system and role unlock requirements | [View Leveling](./docs/leveling/README.md) |
 | **Buildings & Zones** | Explore the hexagon prison layout | [View Zones](./docs/world/buildings.md) |
 | **Schedule & Jobs** | Understand daily routines and job duties | [View Schedule](./docs/gameplay/schedule-jobs.md) |
 
@@ -45,7 +45,7 @@ Welcome to the comprehensive Prison RP - Project Hexa Wiki! This repository cont
 
 1. **New Players**: Start with [Tips & Tricks](./docs/guides/tips-tricks.md)
 2. **Role Info**: Browse [All Roles](./docs/roles/README.md) to learn about your options
-3. **Progression**: Check [Level & XP Guide](./docs/progression/level-xp.md) to plan your advancement
+3. **Progression**: Check [Leveling System](./docs/leveling/README.md) to plan your advancement
 4. **Locations**: Explore [Buildings & Zones](./docs/world/buildings.md) to learn the prison layout
 5. **Daily Life**: See [Schedule & Jobs](./docs/gameplay/schedule-jobs.md) for routines
 
