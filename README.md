@@ -10,6 +10,7 @@ Welcome to the comprehensive Prison RP - Project Hexa Wiki! This repository cont
 |--------|-------------|------|
 | **Roles** | Discover all 12 playable roles and their unique abilities | [View Roles](./docs/roles/README.md) |
 | **Leveling** | Learn the XP system and role unlock requirements | [View Leveling](./docs/leveling/README.md) |
+| **Gamepasses** | Explore available gamepasses and their benefits | [View Gamepasses](./docs/gamepasses/README.md) |
 | **Buildings & Zones** | Explore the hexagon prison layout | [View Zones](./docs/world/buildings.md) |
 | **Schedule & Jobs** | Understand daily routines and job duties | [View Schedule](./docs/gameplay/schedule-jobs.md) |
 
@@ -32,6 +33,10 @@ Welcome to the comprehensive Prison RP - Project Hexa Wiki! This repository cont
 
 - [NPCs](./docs/npcs/README.md) - Information about non-player characters in the prison
 
+### Monetization
+
+- [Gamepasses](./docs/gamepasses/README.md) - Available gamepasses and their perks
+
 ### Rules
 
 - [Rules](./docs/rules/README.md) - Server and gameplay rules
@@ -46,8 +51,9 @@ Welcome to the comprehensive Prison RP - Project Hexa Wiki! This repository cont
 1. **New Players**: Start with [Tips & Tricks](./docs/guides/tips-tricks.md)
 2. **Role Info**: Browse [All Roles](./docs/roles/README.md) to learn about your options
 3. **Progression**: Check [Leveling System](./docs/leveling/README.md) to plan your advancement
-4. **Locations**: Explore [Buildings & Zones](./docs/world/buildings.md) to learn the prison layout
-5. **Daily Life**: See [Schedule & Jobs](./docs/gameplay/schedule-jobs.md) for routines
+4. **Monetization**: Explore [Gamepasses](./docs/gamepasses/README.md) for premium features
+5. **Locations**: Explore [Buildings & Zones](./docs/world/buildings.md) to learn the prison layout
+6. **Daily Life**: See [Schedule & Jobs](./docs/gameplay/schedule-jobs.md) for routines
 
 ## Contributing
 
