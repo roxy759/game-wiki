@@ -4,14 +4,14 @@ Gamepasses in Prison RP - Project Hexa provide various perks and bonuses to enha
 
 ## Gamepasses Overview
 
-| Gamepass | Cost (Robux) | Benefits | Rarity |
-|----------|-------------|----------|--------|
-| **Premium VIP** | 699 | x2 XP Boost, Premium background effect, Custom Nametag effects, Color gradient for Nametag, Purple special color on message bubbles, Legendary emote (personal purchase only) | Best Value |
-| **Legend VIP** | 1,499 | Continuous x2 XP and x2 Money boost, Legend background effect, Custom Nametag effects, Color gradient for Nametag, Purple special color on message bubbles, Legendary emote (personal purchase only) | Popular |
-| **x2 Experience** | 399 | Doubles your XP gain rate | - |
-| **x2 Money** | 399 | Doubles your money gain rate | - |
-| **Gang Access** | 200 | Access to invitation-only gangs. Note: Owning "Gang Access" does not allow you to create a gang directly. To create a gang, you will need to pay 1,000 Robux in addition to this gamepass. | - |
-| **Premium Pickaxe** | 359 | x2 Mining Speed, +20% Chance boost | - |
+| Gamepass | Cost (Robux) | Benefits |
+|----------|-------------|----------|
+| **Premium VIP** | 699 | x2 XP Boost, Premium background effect, Custom Nametag effects, Color gradient for Nametag, Purple special color on message bubbles, Legendary emote (personal purchase only) |
+| **Legend VIP** | 1,499 | Continuous x2 XP and x2 Money boost, Legend background effect, Custom Nametag effects, Color gradient for Nametag, Purple special color on message bubbles, Legendary emote (personal purchase only) |
+| **x2 Experience** | 399 | Doubles your XP gain rate |
+| **x2 Money** | 399 | Doubles your money gain rate |
+| **Gang Access** | 200 | Access to invitation-only gangs. Note: Owning "Gang Access" does not allow you to create a gang directly. To create a gang, you will need to pay 1,000 Robux in addition to this gamepass. |
+| **Premium Pickaxe** | 359 | x2 Mining Speed, +20% Chance boost |
 
 ## Detailed Descriptions
 
